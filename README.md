@@ -63,6 +63,12 @@ cd 01_variables
 python variables.py
 ```
 
+## Clone the Repository
+
+```bash
+git clone https://github.com/shreyaapaathakk/python-basics.git
+cd python-basics
+```
 
 
 ## 🎯 Goal
