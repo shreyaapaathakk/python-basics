@@ -58,9 +58,9 @@ python-basics/<br>
 
 ## ▶️ Running an Example
 
-```
-cd 01_variables
-python variables.py
+```bash
+cd 07_functions
+python functions.py
 ```
 
 ## Clone the Repository
