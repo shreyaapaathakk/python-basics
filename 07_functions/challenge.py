@@ -1,7 +1,7 @@
 """
 Challenge: Simple Calculator
 
-Create a function that takes two numbers
+Create a calculator function that takes two numbers
 and an operator (+, -, *, /) as input
 and returns the result.
 """
