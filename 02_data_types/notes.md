@@ -1,5 +1,15 @@
 # Data Types in Python
 
+## Files in This Topic
+
+| File | Description |
+|------|-------------|
+| `01_basic_data_types.py` | Introduction to Python's built-in data types |
+| `02_type_conversion.py` | Converting between different data types |
+| `exercises.md` | Practice questions |
+| `practice.py` | Solutions to the practice exercises |
+| `challenge.py` | Mini project to apply what you've learned |
+
 ## What is a Data Type?
 
 A data type defines the kind of value a variable stores. Python automatically determines the data type when you assign a value.
