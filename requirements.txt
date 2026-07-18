@@ -1,1 +1,2 @@
-# No external packages required
+# No external packages required.
+# This repository uses only Python's standard library.
