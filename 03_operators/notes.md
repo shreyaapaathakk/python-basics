@@ -1,5 +1,19 @@
 # Operators in Python
 
+## Files in This Topic
+
+| File | Description |
+|------|-------------|
+| `01_arithmetic.py` | Arithmetic operators |
+| `02_assignment.py` | Assignment operators |
+| `03_comparison.py` | Comparison operators |
+| `04_logical.py` | Logical operators |
+| `05_identity.py` | Identity operators |
+| `06_membership.py` | Membership operators |
+| `exercises.md` | Practice questions |
+| `practice.py` | Solutions to the practice exercises |
+| `challenge.py` | Mini project combining different operators |
+
 ## What is an Operator?
 
 An operator is a symbol or keyword that performs an operation on one or more values (operands).
