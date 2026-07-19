@@ -1,5 +1,17 @@
 # Input and Output in Python
 
+## Files in This Topic
+
+| File | Description |
+|------|-------------|
+| `01_print.py` | Using the `print()` function |
+| `02_input.py` | Reading user input with `input()` |
+| `03_type_conversion.py` | Converting user input to different data types |
+| `04_f_strings.py` | Formatting output using f-strings |
+| `exercises.md` | Practice questions |
+| `practice.py` | Solutions to the practice exercises |
+| `challenge.py` | Personal profile generator mini project |
+
 ## What is Input?
 
 Input allows a user to provide data while a program is running.
