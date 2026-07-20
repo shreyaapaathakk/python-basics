@@ -1,5 +1,17 @@
 # Conditional Statements in Python
 
+## Files in This Topic
+
+| File | Description |
+|------|-------------|
+| `01_if.py` | Basic `if` statement |
+| `02_if_else.py` | Using `if...else` |
+| `03_if_elif_else.py` | Multiple conditions with `elif` |
+| `04_nested_if.py` | Nested conditional statements |
+| `exercises.md` | Practice questions |
+| `practice.py` | Solutions to the practice exercises |
+| `challenge.py` | Student grade calculator mini project |
+
 ## What are Conditional Statements?
 
 Conditional statements allow a program to make decisions based on whether a condition is `True` or `False`.
