@@ -1,5 +1,19 @@
 # Loops in Python
 
+## Files in This Topic
+
+| File | Description |
+|------|-------------|
+| `01_for_loop.py` | Using the `for` loop |
+| `02_while_loop.py` | Using the `while` loop |
+| `03_break_statement.py` | Exiting a loop with `break` |
+| `04_continue_statement.py` | Skipping iterations with `continue` |
+| `05_range_function.py` | Using the `range()` function |
+| `06_nested_loops.py` | Nested loops and simple patterns |
+| `exercises.md` | Practice questions |
+| `practice.py` | Solutions to the practice exercises |
+| `challenge.py` | Multiplication table generator |
+
 ## What is a Loop?
 
 A loop allows you to execute the same block of code multiple times.
