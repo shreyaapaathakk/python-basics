@@ -42,6 +42,7 @@ After completing this module, you will be able to:
 |02_importing_packages.py|Importing package modules|
 |03_init_file.py|Understanding `__init__.py`|
 |04_package_alias.py|Import aliases|
+|05_relative_imports.py|Absolute vs relative imports|
 |my_package/|Example package|
 |notes.md|Complete theory|
 |exercises.md|Practice questions|
