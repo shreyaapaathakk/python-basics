@@ -107,3 +107,96 @@ print(calc.multiply(4, 5))
 - `__init__.py` identifies a package.
 - Packages improve organization and scalability.
 - Imports can target modules or individual functions.
+
+---
+
+# Absolute Imports
+
+An absolute import starts from the project's top-level package.
+
+Example:
+
+```python
+from my_package.calculator import add
+
+print(add(5, 3))
+```
+
+Advantages:
+
+- Easy to understand
+- Explicit
+- Preferred in large projects
+
+---
+
+# Relative Imports
+
+A relative import refers to another module inside the same package.
+
+Example:
+
+```python
+from .calculator import add
+```
+
+The single dot (`.`) refers to the current package.
+
+Two dots (`..`) refer to the parent package.
+
+Example:
+
+```python
+from ..utilities import helper
+```
+
+---
+
+# Absolute vs Relative Imports
+
+| Absolute Import | Relative Import |
+|-----------------|-----------------|
+|Starts from the top-level package|Starts from the current package|
+|Easy to read|Shorter within packages|
+|Works from project entry points|Works only inside packages|
+|Preferred for application code|Useful for package internals|
+
+---
+
+# Common Mistake
+
+If you run a package module directly:
+
+```bash
+python greetings.py
+```
+
+a relative import like:
+
+```python
+from .calculator import add
+```
+
+may produce:
+
+```
+ImportError:
+attempted relative import with no known parent package
+```
+
+Instead, run the package from the project root:
+
+```bash
+python -m my_package.greetings
+```
+
+or import the package from another script.
+
+---
+
+# Best Practices
+
+- Use **absolute imports** in application entry-point scripts.
+- Use **relative imports** for modules within the same package.
+- Avoid mixing import styles unnecessarily.
+- Keep package structures simple and well organized.
