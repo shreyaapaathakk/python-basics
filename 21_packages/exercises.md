@@ -41,6 +41,10 @@ Create another module named `statistics.py` with one function.
 Use functions from two modules in the same package.
 
 ---
+## Exercise 8
+
+Write one example of an absolute import and one example of a relative import for the same module.
+
 
 # Bonus Challenge
 
