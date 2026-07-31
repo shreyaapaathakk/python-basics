@@ -164,6 +164,18 @@ pandas==2.3.0
 
 ---
 
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.vscode/
+.idea/
+
 # Summary
 
 - Virtual environments isolate project dependencies.
