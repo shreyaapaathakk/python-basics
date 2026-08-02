@@ -1,5 +1,18 @@
+# Byte-compiled files
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
+
+# IDEs
 .vscode/
 .idea/
-.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
