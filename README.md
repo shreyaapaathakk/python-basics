@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/python-basics-banner.png" alt="Python Basics Banner">
+</p>
+
 # 🐍 Python Basics
 
 Welcome to my **Python Basics** repository!
@@ -6,6 +10,10 @@ This beginner-friendly repository documents my journey of learning Python fundam
 
 
 ## 📚 Topics Covered
+
+<p align="center">
+  <img src="assets/python-basics-roadmap.png" alt="Python Basics Learning Roadmap">
+</p>
 
 - Variables
 - Data Types
@@ -27,6 +35,10 @@ This beginner-friendly repository documents my journey of learning Python fundam
 
 
 ## Mini Projects
+
+<p align="center">
+  <img src="assets/python-basics-preview.png" alt="Python Basics Repository Preview">
+</p>
 
 - Calculator
 - Number Guessing Game
