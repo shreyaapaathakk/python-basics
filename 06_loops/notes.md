@@ -10,6 +10,8 @@
 | `04_continue_statement.py` | Skipping iterations with `continue` |
 | `05_range_function.py` | Using the `range()` function |
 | `06_nested_loops.py` | Nested loops and simple patterns |
+| `star_pattern.py` | Creates different star patterns using nested loops |
+| `fibonacci.py` | Generates the Fibonacci sequence using a `for` loop |
 | `exercises.md` | Practice questions |
 | `practice.py` | Solutions to the practice exercises |
 | `challenge.py` | Multiplication table generator |
