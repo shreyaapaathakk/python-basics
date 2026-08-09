@@ -25,6 +25,29 @@ Users can:
 
 ---
 
+## Difficulty
+
+**Intermediate 🟡**
+
+This project introduces external APIs, HTTP requests, JSON responses,
+environment variables, and third-party Python packages.
+
+## Key Concepts
+
+- Python Functions
+- API Integration
+- HTTP Requests
+- JSON Data
+- Dictionaries
+- Environment Variables
+- `python-dotenv`
+- Exception Handling
+- Input Validation
+- Loops
+- Conditional Statements
+- Third-Party Packages
+- `requirements.txt`
+
 ## Features
 
 - Search weather by city
