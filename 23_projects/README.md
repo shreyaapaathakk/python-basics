@@ -40,6 +40,7 @@ After completing this module, you will be able to:
 | 08. Student Management System | Advanced     | Object-Oriented Programming, File Handling             |
 | 09. Library Management System | Advanced     | Advanced OOP, Exception Handling                       |
 | 10. Banking System            | Advanced     | Advanced OOP, Packages, Decorators                     |
+| 11. Weather App               | Intermediate | Python Functions, API Integration, HTTP Requests, Loops|
 
 ---
 
@@ -60,6 +61,7 @@ After completing this module, you will be able to:
 ├── 08_student_management_system/
 ├── 09_library_management_system/
 └── 10_bank_management_system/
+└── 11_weather_app/
 ```
 
 Each project is self-contained and includes its own documentation and source code.
