@@ -66,7 +66,12 @@ python-basics/<br>
 └── ...
 ```
 
+## Tools Used
 
+- Python 3
+- Visual Studio Code
+- Git
+- GitHub
 
 ## ▶️ Running an Example
 
